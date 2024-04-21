@@ -1,5 +1,5 @@
 # Random Password Generator
 
-[Live Demo](https://hasithaprageeth.github.io/password-generator/)
+[Live Demo](https://hp-password-generator.netlify.app/)
 
 ![Random Password Generator Website ](./assets/screenshot.png)
